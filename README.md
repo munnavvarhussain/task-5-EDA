@@ -1,6 +1,10 @@
 Titanic Dataset - Exploratory Data Analysis (EDA)
+
+
 📚 About the Project
+
 This project is part of my Data Analyst Internship Task 5.
+
 The goal was to perform Exploratory Data Analysis (EDA) on the Titanic dataset to discover patterns, trends, and anomalies.
 
 🛠 Tools and Libraries Used
